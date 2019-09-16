@@ -1,10 +1,10 @@
 <html>
 <head>
 <title>
-Hello Java  world
+Testing Selenium 
 </title>
 </head>
 <body>
-<center> <h1> Hello Java world </h1> </center>
+<center> <h1> Testing selenium </h1> </center>
 </body>
 </html>
